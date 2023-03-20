@@ -9,6 +9,6 @@ public.asc -> Публичный ключ
 SQLPermitions.zip -> Создание ролей и управление ими                     
 SQLPermitions.zip.sig -> Подпись файла SQLPermitions.zip                     
 
-=КТ3=
+=КТ3=                     
 SQLBCR.zip                    
 SQLBCR.zip.sig ->  Подпись файла SQLBCR.zip                    
