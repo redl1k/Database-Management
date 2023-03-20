@@ -8,3 +8,7 @@ public.asc -> Публичный ключ
 =KT2=                     
 SQLPermitions.zip -> Создание ролей и управление ими                     
 SQLPermitions.zip.sig -> Подпись файла SQLPermitions.zip                     
+
+=КТ3=
+3IB2_BuzdanovAD_SQLBCR.zip
+3IB2_BuzdanovAD_SQLBCR.zip.sig -> подпись файла 3IB2_BuzdanovAD_SQLBCR.zip
