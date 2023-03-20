@@ -12,3 +12,7 @@ SQLPermitions.zip.sig -> Подпись файла SQLPermitions.zip
 =КТ3=                     
 SQLBCR.zip                    
 SQLBCR.zip.sig ->  Подпись файла SQLBCR.zip                    
+
+=КТ4=                     
+SQLExplain.zip                     
+SQLExplain.zip.sig ->  Подпись файла SQLExplain.zip                     
