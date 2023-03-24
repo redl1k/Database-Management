@@ -17,6 +17,6 @@ SQLBCR.zip.sig ->  Подпись файла SQLBCR.zip
 SQLExplain.zip                     
 SQLExplain.zip.sig ->  Подпись файла SQLExplain.zip                     
 
-=КТ5=
-noSQLCouchDB.zip
-noSQLCouchDB.zip.sig ->  Подпись файла noSQLCouchDB.zip
+=КТ5=                     
+noSQLCouchDB.zip                     
+noSQLCouchDB.zip.sig ->  Подпись файла noSQLCouchDB.zip                     
